@@ -21,7 +21,7 @@ See [CHANGELOG.md](https://github.com/slack-go/slack/blob/master/CHANGELOG.md) o
 
 ### *go get*
 
-    $ go get -u github.com/slack-go/slack
+    $ go get -u github.com/lfventura/slack-go
 
 ## Example
 
@@ -31,7 +31,7 @@ See [CHANGELOG.md](https://github.com/slack-go/slack/blob/master/CHANGELOG.md) o
 import (
 	"fmt"
 
-	"github.com/slack-go/slack"
+	"github.com/lfventura/slack-go"
 )
 
 func main() {
@@ -56,7 +56,7 @@ func main() {
 import (
     "fmt"
 
-    "github.com/slack-go/slack"
+    "github.com/lfventura/slack-go"
 )
 
 func main() {
